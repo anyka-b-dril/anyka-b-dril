@@ -7,10 +7,19 @@
 <ul> 
   <li> 📚 I'm a computer science major at SNHU! </li>
   <li> 🔐 I’m currently learning about JUnit, DevOps, and DevSecOps </li>
-  <li> 🎇  I love painting, concerts, swimming, sufring, and poetry </li>
+  <li> 🎇  I love painting, concerts, swimming, surfing, and poetry </li>
   <li> ⚡ Fun fact: I swam competitvely for ABU </li>
 </ul>
 
+<hr>
+## Languages and Tools
+
+<hr>
+## What am I up to?
+I am so glad you asked :)
+
+<hr>
+## How to Reach Me 
 <!--
 **anyka-b-dril/anyka-b-dril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
