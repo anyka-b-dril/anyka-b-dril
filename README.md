@@ -1,4 +1,4 @@
-![Anyka B: Junior Cloud Deveoper](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThkcWY2eTV3dm44dW14YWk3amk1MDYwanFsNDRhdXBwM3ByZ2o2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e1sfWRXIwZlhWHFuEq/giphy.gif)
+![Alt text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThkcWY2eTV3dm44dW14YWk3amk1MDYwanFsNDRhdXBwM3ByZ2o2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e1sfWRXIwZlhWHFuEq/giphy.gif)
 
 ## Howdy, I'm Anyka B. (●'◡'●)
 
