@@ -1,4 +1,4 @@
-![hippo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThkcWY2eTV3dm44dW14YWk3amk1MDYwanFsNDRhdXBwM3ByZ2o2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e1sfWRXIwZlhWHFuEq/giphy.gif)
+![Hello Banner](https://github.com/user-attachments/assets/38b954d4-3b42-4f7e-8f40-d357511de1a9)
 
 ## Howdy, I'm Anyka B. (●'◡'●)
 
