@@ -1,4 +1,6 @@
-## Hi there 👋
+## Howdy, I'm Anyka B. (●'◡'●)
+
+“To live is to learn, and to learn is to live." ― Hlovate, Contengan Jalanan
 
 <!--
 **anyka-b-dril/anyka-b-dril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
