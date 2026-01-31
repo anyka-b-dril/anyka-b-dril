@@ -1,4 +1,4 @@
-![Anyka B: Junior Cloud Deveoper]([img/my-animated-file.gif](https://github.com/anyka-b-dril/anyka-b-dril/blob/main/img/Hello%20Banner.gif))
+![Anyka B: Junior Cloud Deveoper](https://github.com/anyka-b-dril/anyka-b-dril/blob/main/img/Hello%20Banner.gif)
 
 ## Howdy, I'm Anyka B. (●'◡'●)
 
