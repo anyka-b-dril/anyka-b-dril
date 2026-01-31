@@ -12,7 +12,7 @@
 </ul>
 
 <hr>
-## Languages and Tools
+<h2> Languages and Tools </h2> 
 
 <hr>
 <h2>  What am I up to? </h2>
