@@ -35,6 +35,22 @@ _“To live is to learn, and to learn is to live." ― Hlovate, Contengan Jalana
 
 I am so glad you asked :)
 
+This term, I am taking two software security classes: Software Test, Automation QA and Software Security.
+So far I have learned...
+<ul>
+	<li> Creating and using JUnit tests </li>
+	<li> Apache Maven </li>
+	<li> Dependecy reports/supressions</li>
+	<li> Algorithm Ciphers </li>
+	<li> Simple Checksum Verification </li>
+	<li> Generating self signed certificates</li>
+</ul>
+
+In my personal time I am investigating...
+<ul>
+	<li> Cloudability: Costing, Dashboards, and Reports </li>
+</ul>
+
 <hr>
 <h2> How to Reach Me </h2>  
 
