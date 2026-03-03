@@ -6,7 +6,7 @@ _“To live is to learn, and to learn is to live." ― Hlovate, Contengan Jalana
 
 <ul> 
   <li> 📚 I'm a computer science major at SNHU! </li>
-  <li> 🔐 I’m currently learning about JUnit, DevOps, and DevSecOps </li>
+  <li> 🔐 I’m currently learning about Mobile Architecture and Comp Graphics </li>
   <li> 🎇  I love painting, concerts, swimming, surfing, and poetry </li>
   <li> ⚡ Fun fact: I swam competitvely for ABU </li>
 </ul>
