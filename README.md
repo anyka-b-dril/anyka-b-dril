@@ -35,20 +35,21 @@ _“To live is to learn, and to learn is to live." ― Hlovate, Contengan Jalana
 
 I am so glad you asked :)
 
-This term, I am taking two software security classes: Software Test, Automation QA and Software Security.
-So far I have learned...
+This term, I am taking two design classes: Mobile Architecture and Computer Graphics and Visualization
+So far I have...
 <ul>
-	<li> Creating and using JUnit tests </li>
-	<li> Apache Maven </li>
-	<li> Dependecy reports/supressions</li>
-	<li> Algorithm Ciphers </li>
-	<li> Simple Checksum Verification </li>
-	<li> Generating self signed certificates</li>
+	<li> Reviewed the software design process </li>
+	<li> Learned key UI components for user interfaces </li>
+	<li> Started drafting first mobile app design </li>
+	<li> Reviewed practical applications of OpenGL </li>
+	<li> Started first OpenGL project </li>
+	<li> Started drafting final OpenGL project design </li>
 </ul>
 
 In my personal time I am investigating...
 <ul>
 	<li> Cloudability: Costing, Dashboards, and Reports </li>
+	<li> Reviewing Terraform syntax and modular components </li>
 </ul>
 
 <hr>
