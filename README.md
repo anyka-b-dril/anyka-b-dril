@@ -38,12 +38,8 @@ I am so glad you asked :)
 This term, I am taking two design classes: Mobile Architecture and Computer Graphics and Visualization
 So far I have...
 <ul>
-	<li> Reviewed the software design process </li>
-	<li> Learned key UI components for user interfaces </li>
-	<li> Started drafting first mobile app design </li>
-	<li> Reviewed practical applications of OpenGL </li>
-	<li> Started first OpenGL project </li>
-	<li> Started drafting final OpenGL project design </li>
+	<li> Created a working Android mobile application </li>
+	<li> Created a complex 3D scene using OpenGL </li>
 </ul>
 
 In my personal time I am investigating...
