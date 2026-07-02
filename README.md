@@ -6,7 +6,7 @@ _“To live is to learn, and to learn is to live." ― Hlovate, Contengan Jalana
 
 <ul> 
   <li> 📚 I'm a computer science major at SNHU! </li>
-  <li> 🔐 I’m currently learning about Mobile Architecture and Comp Graphics </li>
+  <li> 🔐 I’m currently learning about Full Stack Development and Current CS Trends </li>
   <li> 🎇  I love painting, concerts, swimming, surfing, and poetry </li>
   <li> ⚡ Fun fact: I swam competitvely for ABU </li>
 </ul>
@@ -35,11 +35,11 @@ _“To live is to learn, and to learn is to live." ― Hlovate, Contengan Jalana
 
 I am so glad you asked :)
 
-This term, I am taking two design classes: Mobile Architecture and Computer Graphics and Visualization
+This term, I am taking two design classes: Full Stack Development and Current/Emerging CS Trends.
 So far I have...
 <ul>
-	<li> Created a working Android mobile application </li>
-	<li> Created a complex 3D scene using OpenGL </li>
+	<li> Created a static website </li>
+	<li> Analyzed how AI solves real world problems </li>
 </ul>
 
 In my personal time I am investigating...
