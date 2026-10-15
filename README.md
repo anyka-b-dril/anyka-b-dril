@@ -6,9 +6,9 @@ _“To live is to learn, and to learn is to live." ― Hlovate, Contengan Jalana
 
 <ul> 
   <li> 📚 I'm a computer science major at SNHU! </li>
-  <li> 🔐 I’m currently learning about Full Stack Development and Current CS Trends </li>
+  <li> 🔐 I’m currently finishing up my CS degree! Check out my capstone portfolio: <a href="https://anyka-b-dril.github.io/">Anyka's Capstone Portfolio</a> </li>
   <li> 🎇  I love painting, concerts, swimming, surfing, and poetry </li>
-  <li> ⚡ Fun fact: I swam competitvely for ABU </li>
+  <li> ⚡ Fun fact: I swam competitvely for Alderson Broaddus University! </li>
 </ul>
 
 <hr>
@@ -35,21 +35,22 @@ _“To live is to learn, and to learn is to live." ― Hlovate, Contengan Jalana
 
 I am so glad you asked :)
 
-This term, I am taking two design classes: Full Stack Development and Current/Emerging CS Trends.
+This term, I am finishing up my computer science bachelors. As my last undergraduate project, I am enhancing three different artifacts from previous course.
 So far I have...
 <ul>
-	<li> Created a static website </li>
-	<li> Analyzed how AI solves real world problems </li>
+	<li> Refactored the architecture of my appointment manager to reflect typical model-view-controller framework </li>
+	<li> Rewrote my course catalog to use C++ unordered map and Java hash map </li>
+	<li> Created benchmark tests for each course catalog data structure </li>
+	<li> Added a MongoDB database to the appointment manager </li>
+	<li> Created a GitHub pages website with Jekyll, HTML, and CSS </li>
 </ul>
 
 In my personal time I am investigating...
 <ul>
-	<li> Cloudability: Costing, Dashboards, and Reports </li>
-	<li> Reviewing Terraform syntax and modular components </li>
+	<li> Azure Cloud certificates </li>
 </ul>
 
 <hr>
-<h2> How to Reach Me </h2>  
 
 <!--
 **anyka-b-dril/anyka-b-dril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
